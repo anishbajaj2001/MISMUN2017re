@@ -1,2 +1,3 @@
-# MISMUN2017re
-Pratyush's failure (lol no surprise)
+MISMUN2017
+
+Official website for inter-school MUN.
